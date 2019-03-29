@@ -13,3 +13,7 @@ On the final page, A new button is added to find the shortest pencil. Now，t
 
 Have a good time! 😃
 
+<<<<<<< HEAD
+=======
+I've made an educational game for WWDC 2019.
+>>>>>>> be9eb407f5697c4097510f3ab4e2cb894c3ed8a1
