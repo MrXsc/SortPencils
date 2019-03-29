@@ -12,3 +12,10 @@ My chapter mainly consists of three pages: pointing,swapping and sortin
 On the final page, A new button is added to find the shortest pencil. Now，this algorithm is simplified into the three simple steps. Hopefully, through this process, it will enable users to sort using Selection Sort. 
 
 Have a good time! 😃
+
+---
+![](View2.png)
+
+![](View1.png)
+
+
