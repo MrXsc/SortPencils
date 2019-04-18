@@ -1,6 +1,6 @@
 # SortPencils
 
-WWDC 19 👽
+## WWDC 19 👽
 
 I've made an educational game 🙃. 
 
@@ -19,4 +19,6 @@ Have a good time! 😃
 
 ![](View1.png)
 
+## Congratulations！ 👽
+I’ve been awarded a WWDC19 Scholarship！
 
