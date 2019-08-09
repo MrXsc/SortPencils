@@ -20,5 +20,6 @@ Have a good time! 😃
 ![](View1.png)
 
 ## Congratulations！ 👽
-I’ve been awarded a WWDC19 Scholarship！
+I’ve been awarded a   WWDC19 Scholarship！
+🤯🥳🖖🏻
 
